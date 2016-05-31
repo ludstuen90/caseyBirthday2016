@@ -1,0 +1,58 @@
+.jumbotron {
+  background-image:url(caseylukas.jpg);
+  height:600px;
+  background-size:cover;
+  background-attachment: fixed;
+}
+
+.jumbotron h1 {
+  color:#fff;
+}
+
+.jumbotron p {
+  color: lightgrey;
+}
+
+
+.hidden {
+  display:none;
+}
+
+
+
+.kites  {
+  background-image: url(kites.jpg);
+  height:575px;
+  background-size:cover;
+  background-size:100%;
+  background-attachment: fixed;
+
+  background-attachment:cover;
+
+}
+.kites h1 {
+  color: white;
+}
+
+
+.seeu  {
+  background-image: url(seeu.jpg);
+  height:625px;
+  background-size:cover;
+  background-size:100%;
+  background-attachment: fixed;
+
+  background-attachment:cover;
+
+}
+
+
+.resizedtexbox {
+  width:200px;
+}
+
+
+#game img {
+
+  width:650px;
+}
